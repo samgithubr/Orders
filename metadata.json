@@ -1,0 +1,6 @@
+{
+  "name": "File Directory Watcher",
+  "description": "Select a file directory, auto-detect newly added files, translate call recordings to text, and formulate monthly expense Excel sheets for coffee, tea, and drinks.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
